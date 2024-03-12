@@ -3,6 +3,7 @@ document.querySelectorAll(".audio6").addEventListener("click",function(){
 audio6.pause();
  });
 document.querySelectorAll(".audio6").addEventListener("click",function(){
+const audio6=new Audio("Akhiyaan-Gulaab(PaglaSongs).mp3");
 audio6.play();
  });
 
@@ -19,6 +20,7 @@ document.querySelectorAll(".audio8").addEventListener("click",function(){
  audio8.pause();
  });
 document.querySelectorAll(".audio8").addEventListener("click",function(){
+const audio7=new Audio("What-Jhumka(PaglaSongs).mp3");
 audio8.play();
  });
 
